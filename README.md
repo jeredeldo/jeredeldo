@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif" alt="Welcome to my GitHub" height="120" />
   <p style="color: #c9d1d9;">
     Estudiante de la <strong>Tecnicatura Universitaria en Programación (TUP)</strong> en la <strong>UTN</strong>.<br/>
     Actualmente cursando el <strong>último cuatrimestre</strong>.
@@ -38,11 +37,6 @@
 ---
 
 <div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jeredeldo&show_icons=true&hide_title=true&theme=tokyonight&card_width=420"
-    alt="Estadísticas de GitHub"
-    height="160"
-  />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeredeldo&layout=compact&theme=tokyonight&card_width=320"
     alt="Lenguajes más usados"

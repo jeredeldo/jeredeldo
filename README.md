@@ -35,11 +35,3 @@
 </ul>
 
 ---
-
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeredeldo&layout=compact&theme=tokyonight&card_width=320"
-    alt="Lenguajes más usados"
-    height="160"
-  />
-</div>
